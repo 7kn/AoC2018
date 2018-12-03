@@ -1,6 +1,6 @@
 #f!/usr/bin/python3
 
-file = "data.txt"
+file = "input_day1.txt"
 result = 0
 
 with open(file) as f:
